@@ -11,4 +11,4 @@ Website que faz a apresentação e exibição de redes sociais, como: <b> _GitHu
   <br> 
   <br> 
   
- <a href = "https://maria-eduarda-araujo-freire.netlify.app/"><img  align="center" width="150" src="https://img.shields.io/badge/-Visualizar-212121?style=square&logo=Netlify&logoColor=blue&link=http://cardapio-fastfit.netlify.app/" target="_blank"></a>
+ <a href = "https://maria-eduarda-araujo-freire.netlify.app/"><img  align="center" width="130" src="https://img.shields.io/badge/-Visualizar-212121?style=square&logo=Netlify&logoColor=blue&link=http://cardapio-fastfit.netlify.app/" target="_blank"></a>
